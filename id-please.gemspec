@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.authors     = ["crowtec"]
   gem.email       = 'info@crowtec.eu'
   gem.require_paths = ['lib']
-  gem.files       = Dir['lib/**/*'] + %w(README.md)
+  gem.files       = Dir['lib/**/*'] + %w(LICENSE README.md)
   gem.homepage    = 'https://github.com/crowtec/id-please'
   gem.license       = 'MIT'
 end
