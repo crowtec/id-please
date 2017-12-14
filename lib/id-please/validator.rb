@@ -1,5 +1,5 @@
 module IdPlease
-  module Validator
+  class Validator
     def check id
       id == "test"
     end
